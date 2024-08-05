@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bc93608-f51a-4a35-a7b6-77cf0fe051b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CG-CollectionFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/AddzeroinputN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/ArrayListForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/Linked_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/ListAllType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/MapAllType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/Map_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/Queue_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/SetAllType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CollectionsFramework/Stack_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/data/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/data/StudentDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/example/TestingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/BiConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/BiFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/BinaryOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/FunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/PredicateConsumerBipredicateBiConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/PredicateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/PredicateStudentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/SupplierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/funcInterface/UnaryOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/methodreference/ConstructorReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/methodreference/ConsumerMethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/methodreference/FunctionMethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/numericstreams/NumericStreamAggregateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/numericstreams/NumericStreamBoxingUnboxingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/numericstreams/NumericStreamMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/numericstreams/NumericStreamRangeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/numericstreams/NumericStreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/optional/OptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/optional/OptionalMapFlatMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/optional/OptionalOfEmptyNullableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/optional/OptionalOrElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/optional/OptionalPresentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamOfGenerateIterateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamsComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamsDistinctCountSortedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamsFilterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamsMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamsMapFilterReduceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamsReduceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/streamapi/StreamsflatMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/terminalstreams/StreamGroupingByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/terminalstreams/StreamsCountingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/terminalstreams/StreamsJoiningExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/terminalstreams/StreamsMappingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/terminalstreams/StreamsMinByMaxyByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/terminalstreams/StreamsParitioninigByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/terminalstreams/StreamsSumAvgExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy/DuplicateElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy/DuplicateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy/FindMaximumElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy/RemoveDuplicateFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy/SortedArrayEvenOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy/StringQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/easy/SumOfAllElementsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/medium/ArrayProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/medium/FindSecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/project/AOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/project/ArrayOpertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/project/CommandLineInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/project/InpusString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/project/Source.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2kEQuDcyQzskskg7mk7C2xbEKcC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/satyamsahu/IdeaProjects/CG-CollectionFramework/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc93608-f51a-4a35-a7b6-77cf0fe051b6" name="Changes" comment="" />
+      <created>1722846477583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722846477583</updated>
+    </task>
+    <servers />
+  </component>
+</project>
