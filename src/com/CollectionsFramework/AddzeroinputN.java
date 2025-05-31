@@ -12,21 +12,22 @@ public class AddzeroinputN {
 		return (ArrayList<Integer>) list;
 	}
 	
-public ArrayList<Integer> reverseList(ArrayList<Integer> list){
+	public ArrayList<Integer> reverseList(ArrayList<Integer> list){
 		
 		Collections.reverse(list);
 		return (ArrayList<Integer>) list;
 	}
 
-public ArrayList<Integer> changeList(ArrayList<Integer> list, int m, int n){
-	for(int i=0 ; i<list.size(); i++){
-		if(list.get(i)==m)
-	{ 
-			list.remove(i);
-			list.add(i,n);
-	}}
-	return list;
-}
+	public ArrayList<Integer> changeList(ArrayList<Integer> list, int m, int n){
+		for(int i=0 ; i<list.size(); i++){
+			if( list.get(i)==m ){ 
+				list.remove(i);
+				list.add(i,n);
+			}
+		}
+	
+		return list;
+	}
 
 
 
@@ -42,8 +43,7 @@ public ArrayList<Integer> changeList(ArrayList<Integer> list, int m, int n){
 		   System.out.println(e.reverseList(list));
 		   
 		   System.out.println(e.changeList(list, 28, 20));
-		   
-		   
+		    
 		}
 
 	}
